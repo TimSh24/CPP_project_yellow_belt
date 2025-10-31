@@ -1,4 +1,4 @@
-# TimSh24-Yellow_belt_final_problem_C_plus_plus_specialization_Yandex_MIPT
+# Финальный проект курcа "Основы разработки на С++: Желтый пояс"
 Программа умеет обрабатывать набор команд:
 
 Add date event — добавить в базу данных пару (date, event);
